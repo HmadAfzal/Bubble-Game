@@ -21,7 +21,7 @@ Bubble Game is a simple browser-based game where players must click on bubbles t
 - End-of-game message displaying the final score.
 
 ## Preview
-![Bubble Game Preview](bubble-game-preview.png)
+![Bubble Game Preview](bubble-game-preview.PNG)
 
 ## How to Run
 1. Clone the repository to your local machine.

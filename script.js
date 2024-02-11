@@ -47,8 +47,7 @@ pbottom.addEventListener("click",(param)=>{
     }
 })
 
-
-   makeBubble();
+makeBubble();
 randhit();
 timmer();
 
